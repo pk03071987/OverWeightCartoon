@@ -46,57 +46,5 @@ public class Charmoment : MonoBehaviour
             }
         }
     }
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.gameObject.tag == "fat")
-        {
-            Destroy(other.gameObject);
-            //eff[Random.Range(0, eff.Length)].Play();
-            //if (body.GetBlendShapeWeight(0) < 100 && body.GetBlendShapeWeight(1) == 0)
-            //{
-            //    playerScore += 10;
-            //    bodysizefat = body.GetBlendShapeWeight(0) + 25;
-            //}
-            //else if (body.GetBlendShapeWeight(1) > 0)
-            //{
-            //    playerScore += 10;
-            //    bodysizefit = body.GetBlendShapeWeight(1) - 25;
-            //}
-
-            //body.SetBlendShapeWeight(0, bodysizefat);
-            //dress.SetBlendShapeWeight(0, bodysizefat);
-            //body.SetBlendShapeWeight(1, bodysizefit);
-            //dress.SetBlendShapeWeight(1, bodysizefit);
-
-        }
-
-        if (other.gameObject.tag == "diet")
-        {
-            Destroy(other.gameObject);
-            //eff[Random.Range(0, eff.Length)].Play();
-
-            //if (body.GetBlendShapeWeight(1) < 100 && body.GetBlendShapeWeight(0) == 0)
-            //{
-            //    playerScore -= 10;
-            //    bodysizefit = body.GetBlendShapeWeight(1) + 25;
-            //}
-            //else if (body.GetBlendShapeWeight(0) > 0)
-            //{
-            //    playerScore -= 10;
-            //    bodysizefat = body.GetBlendShapeWeight(0) - 25;
-            //}
-            //body.SetBlendShapeWeight(0, bodysizefat);
-            //dress.SetBlendShapeWeight(0, bodysizefat);
-            //body.SetBlendShapeWeight(1, bodysizefit);
-            //dress.SetBlendShapeWeight(1, bodysizefit);
-            gamemanager.instance.setcoin(gamemanager.instance.getcoin() + 10);
-            //SoundManager.instance.playVibration();
-        }
-        Debug.Log("trigger stay"+other.tag);
-        isInBoxRange = true;
-    }
-    private void OnTriggerExit(Collider other)
-    {
-        isInBoxRange = false;
-    }
+  
 }
