@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CreateFoodItems : MonoBehaviour
 {
+    [SerializeField] RandomFloatArray yDifferenceArray;
     RandomInts randomFooodIndexes;
     [SerializeField] RangeValue startFood_creationDelay;
     [SerializeField] GameObject pillarPrefab;

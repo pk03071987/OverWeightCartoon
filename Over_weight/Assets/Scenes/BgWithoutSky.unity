@@ -168,6 +168,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1861437
 MeshRenderer:
@@ -312,6 +337,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &6392925
 GameObject:
@@ -407,6 +457,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &11111746
 GameObject:
@@ -453,6 +528,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &11111749
 MeshRenderer:
@@ -597,6 +697,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &23616565
 GameObject:
@@ -643,6 +768,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &23616568
 MeshRenderer:
@@ -831,6 +981,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 1979171791}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &35714528
 GameObject:
@@ -926,6 +1101,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &42477298
 GameObject:
@@ -1021,6 +1221,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 1979171791}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &44982305
 GameObject:
@@ -1067,6 +1292,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &44982308
 MeshRenderer:
@@ -1162,6 +1412,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &66128765
 MeshRenderer:
@@ -1276,6 +1551,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &83823608
 MeshRenderer:
@@ -1568,6 +1868,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &104647453
 MeshRenderer:
@@ -1663,6 +1988,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &105004707
 MeshRenderer:
@@ -1807,6 +2157,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &122972733
 GameObject:
@@ -1912,6 +2287,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &127372350
 MeshRenderer:
@@ -2007,6 +2407,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &141364129
 MeshRenderer:
@@ -2102,6 +2527,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &154226384
 MeshRenderer:
@@ -2197,6 +2647,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &158827939
 MeshRenderer:
@@ -2292,6 +2767,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &160721692
 MeshRenderer:
@@ -2436,6 +2936,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &183232900
 GameObject:
@@ -2482,6 +3007,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &183232903
 MeshRenderer:
@@ -2577,6 +3127,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &186083508
 MeshRenderer:
@@ -2721,6 +3296,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &197578167
 GameObject:
@@ -2897,6 +3497,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &203488397
 GameObject:
@@ -2992,6 +3617,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &220178863
 GameObject:
@@ -3038,6 +3688,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &220178866
 MeshRenderer:
@@ -3133,6 +3808,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &222950833
 MeshRenderer:
@@ -3228,6 +3928,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &223199491
 MeshRenderer:
@@ -3323,6 +4048,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &224483752
 MeshRenderer:
@@ -3467,6 +4217,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &247383896
 GameObject:
@@ -3513,6 +4288,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &247383899
 MeshRenderer:
@@ -3657,6 +4457,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &252138174
 GameObject:
@@ -3703,6 +4528,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &252138177
 MeshRenderer:
@@ -3847,6 +4697,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1001 &255646019
 PrefabInstance:
@@ -4019,6 +4894,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &258459140
 GameObject:
@@ -4114,6 +5014,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &258771131
 GameObject:
@@ -4160,6 +5085,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &258771134
 MeshRenderer:
@@ -9108,6 +10058,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &266633697
 GameObject:
@@ -18812,6 +19787,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &290280731
 GameObject:
@@ -18907,6 +19907,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &292842651
 GameObject:
@@ -18953,6 +19978,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &292842654
 MeshRenderer:
@@ -19097,6 +20147,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &303360791
 GameObject:
@@ -19143,6 +20218,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &303360794
 MeshRenderer:
@@ -19304,6 +20404,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &324708573
 MeshRenderer:
@@ -19448,6 +20573,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &338053260
 GameObject:
@@ -19543,6 +20693,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &340428381
 GameObject:
@@ -19719,6 +20894,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &345826133
 GameObject:
@@ -19814,6 +21014,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &350775214
 GameObject:
@@ -19860,6 +21085,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &350775217
 MeshRenderer:
@@ -19955,6 +21205,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &352476207
 MeshRenderer:
@@ -20099,6 +21374,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &354175646
 GameObject:
@@ -20275,6 +21575,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &358163938
 GameObject:
@@ -20321,6 +21646,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &358163941
 MeshRenderer:
@@ -20465,6 +21815,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &379582287
 GameObject:
@@ -20555,6 +21930,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &385835403
 MeshRenderer:
@@ -20780,6 +22180,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &402421005
 GameObject:
@@ -20875,6 +22300,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &408101328
 GameObject:
@@ -20970,6 +22420,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 1979171791}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &408542044
 GameObject:
@@ -21065,6 +22540,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &409235210
 GameObject:
@@ -21160,6 +22660,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &410407648
 GameObject:
@@ -21255,6 +22780,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &420557790
 GameObject:
@@ -21301,6 +22851,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &420557793
 MeshRenderer:
@@ -21396,6 +22971,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &428320594
 MeshRenderer:
@@ -21540,6 +23140,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &431726345
 GameObject:
@@ -21586,6 +23211,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &431726348
 MeshRenderer:
@@ -21730,6 +23380,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &450276293
 GameObject:
@@ -21825,6 +23500,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &452723295
 GameObject:
@@ -21920,6 +23620,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &455970947
 GameObject:
@@ -22068,6 +23793,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &457264884
 MeshRenderer:
@@ -22163,6 +23913,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &458905595
 MeshRenderer:
@@ -22307,6 +24082,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &465212340
 GameObject:
@@ -22353,6 +24153,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &465212343
 MeshRenderer:
@@ -22448,6 +24273,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &466046679
 MeshRenderer:
@@ -22636,6 +24486,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &475752296
 MeshRenderer:
@@ -22785,6 +24660,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &486942943
 GameObject:
@@ -22831,6 +24731,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &486942946
 MeshRenderer:
@@ -22975,6 +24900,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &497103644
 GameObject:
@@ -23070,6 +25020,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &499324637
 GameObject:
@@ -23165,6 +25140,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &531453104
 GameObject:
@@ -23260,6 +25260,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &533120529
 GameObject:
@@ -23417,6 +25442,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &549120011
 MeshRenderer:
@@ -23512,6 +25562,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &558743432
 MeshRenderer:
@@ -23607,6 +25682,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &560869352
 MeshRenderer:
@@ -23702,6 +25802,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &562932205
 MeshRenderer:
@@ -23878,6 +26003,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &572843632
 MeshRenderer:
@@ -24022,6 +26172,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &588609395
 GameObject:
@@ -24117,6 +26292,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &591996578
 GameObject:
@@ -24212,6 +26412,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &613912008
 GameObject:
@@ -24258,6 +26483,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &613912011
 MeshRenderer:
@@ -24353,6 +26603,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &615824304
 MeshRenderer:
@@ -24448,6 +26723,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &620467539
 MeshRenderer:
@@ -24592,6 +26892,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &624466810
 GameObject:
@@ -24687,6 +27012,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &626232402
 GameObject:
@@ -24782,6 +27132,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &627594871
 GameObject:
@@ -25081,6 +27456,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &642369513
 GameObject:
@@ -25127,6 +27527,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &642369516
 MeshRenderer:
@@ -25222,6 +27647,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &651086401
 MeshRenderer:
@@ -25428,6 +27878,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &659408781
 MeshRenderer:
@@ -25523,6 +27998,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &660766160
 MeshRenderer:
@@ -25667,6 +28167,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &677456453
 GameObject:
@@ -25762,6 +28287,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &686083805
 GameObject:
@@ -25857,6 +28407,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &687151682
 GameObject:
@@ -26005,6 +28580,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &687159625
 MeshRenderer:
@@ -26149,6 +28749,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &702155866
 GameObject:
@@ -26244,6 +28869,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &703590819
 GameObject:
@@ -26339,6 +28989,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &705675809
 GameObject:
@@ -26434,6 +29109,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &707525094
 GameObject:
@@ -26480,6 +29180,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &707525097
 MeshRenderer:
@@ -26575,6 +29300,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &709679308
 MeshRenderer:
@@ -26670,6 +29420,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &713736168
 MeshRenderer:
@@ -26765,6 +29540,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &716899990
 MeshRenderer:
@@ -26941,6 +29741,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &721504878
 MeshRenderer:
@@ -27138,6 +29963,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &740223452
 MeshRenderer:
@@ -27233,6 +30083,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &750622886
 MeshRenderer:
@@ -27499,7 +30374,7 @@ MonoBehaviour:
   character: {fileID: 770744459}
   forwardSpeed: 15
   downwardSpeed: 2
-  speed: {x: 0, y: -18, z: 16}
+  speed: {x: 0, y: -16, z: 16}
   speed2: {x: 0, y: -16, z: 16}
 --- !u!114 &770744461
 MonoBehaviour:
@@ -27513,6 +30388,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9fbad8d2d9029d4cbba602607188e8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  yDifferenceArray:
+    uniqRandom: 1
+    randomFloats:
+    - 5
+    - 7
+    - 8
+    - 9
+    - -3
+    - -4
+    - -6
   startFood_creationDelay:
     min: 2
     max: 4
@@ -27639,6 +30524,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &795378149
 GameObject:
@@ -27734,6 +30644,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &799241329
 GameObject:
@@ -27780,6 +30715,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &799241332
 MeshRenderer:
@@ -27875,6 +30835,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &818489428
 MeshRenderer:
@@ -27970,6 +30955,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &822039237
 MeshRenderer:
@@ -28114,6 +31124,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &841394543
 GameObject:
@@ -28268,6 +31303,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &843230554
 GameObject:
@@ -28363,6 +31423,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &845044087
 GameObject:
@@ -28409,6 +31494,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &845044090
 MeshRenderer:
@@ -28504,6 +31614,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &851597416
 MeshRenderer:
@@ -28648,6 +31783,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &879387678
 GameObject:
@@ -28743,6 +31903,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &900093674
 GameObject:
@@ -28789,6 +31974,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &900093677
 MeshRenderer:
@@ -28884,6 +32094,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &902046558
 MeshRenderer:
@@ -29028,6 +32263,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &917807267
 GameObject:
@@ -29074,6 +32334,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &917807270
 MeshRenderer:
@@ -29218,6 +32503,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &920376122
 GameObject:
@@ -29264,6 +32574,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &920376125
 MeshRenderer:
@@ -29408,6 +32743,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &924806663
 GameObject:
@@ -29454,6 +32814,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &924806666
 MeshRenderer:
@@ -29598,6 +32983,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &938601038
 GameObject:
@@ -29693,6 +33103,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &939283327
 GameObject:
@@ -29739,6 +33174,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &939283330
 MeshRenderer:
@@ -29834,6 +33294,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &939951262
 MeshRenderer:
@@ -29978,6 +33463,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &944914275
 GameObject:
@@ -30024,6 +33534,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &944914278
 MeshRenderer:
@@ -30168,6 +33703,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &964900830
 GameObject:
@@ -30214,6 +33774,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &964900833
 MeshRenderer:
@@ -30309,6 +33894,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &974029219
 MeshRenderer:
@@ -30453,6 +34063,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &984391829
 GameObject:
@@ -30548,6 +34183,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &990181598
 GameObject:
@@ -30643,6 +34303,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 1979171791}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1014746927
 GameObject:
@@ -30738,6 +34423,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1022511922
 GameObject:
@@ -30833,6 +34543,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1023789837
 GameObject:
@@ -30928,6 +34663,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1032554426
 GameObject:
@@ -30974,6 +34734,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1032554429
 MeshRenderer:
@@ -31069,6 +34854,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1034216554
 MeshRenderer:
@@ -31213,6 +35023,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1046554444
 GameObject:
@@ -31308,6 +35143,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1047956946
 GameObject:
@@ -31354,6 +35214,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1047956949
 MeshRenderer:
@@ -31498,6 +35383,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1083303093
 GameObject:
@@ -31593,6 +35503,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1090084076
 GameObject:
@@ -31639,6 +35574,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1090084079
 MeshRenderer:
@@ -31734,6 +35694,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1092576087
 MeshRenderer:
@@ -31878,6 +35863,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1101561501
 GameObject:
@@ -36686,6 +40696,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1109427660
 MeshRenderer:
@@ -36830,6 +40865,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1121982529
 GameObject:
@@ -36876,6 +40936,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1121982532
 MeshRenderer:
@@ -37079,6 +41164,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1149720245
 GameObject:
@@ -37125,6 +41235,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1149720248
 MeshRenderer:
@@ -37848,6 +41983,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1158719343
 GameObject:
@@ -37943,6 +42103,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1160125836
 GameObject:
@@ -37989,6 +42174,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1160125839
 MeshRenderer:
@@ -38084,6 +42294,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1166488513
 MeshRenderer:
@@ -38179,6 +42414,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1167697721
 MeshRenderer:
@@ -38323,6 +42583,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1175874988
 GameObject:
@@ -38369,6 +42654,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1175874991
 MeshRenderer:
@@ -38464,6 +42774,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1178483185
 MeshRenderer:
@@ -38564,6 +42899,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1187052709
 MeshRenderer:
@@ -38659,6 +43019,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1189619781
 MeshRenderer:
@@ -38718,6 +43103,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1192019215}
+  - component: {fileID: 1192019216}
   m_Layer: 0
   m_Name: Right
   m_TagString: Untagged
@@ -38899,6 +43285,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1192019216
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1192019214}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43ce5b5dd5012d4e9b818b9415a8d37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentComponent: {fileID: 1192019215}
 --- !u!1 &1195681967
 GameObject:
   m_ObjectHideFlags: 0
@@ -38993,6 +43392,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1203391248
 GameObject:
@@ -39088,6 +43512,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1203975449
 GameObject:
@@ -39134,6 +43583,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1203975452
 MeshRenderer:
@@ -39229,6 +43703,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1206577132
 MeshRenderer:
@@ -39432,6 +43931,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1218624577
 GameObject:
@@ -39527,6 +44051,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1218953473
 GameObject:
@@ -39573,6 +44122,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1218953476
 MeshRenderer:
@@ -39717,6 +44291,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1221877199
 GameObject:
@@ -39763,6 +44362,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1221877202
 MeshRenderer:
@@ -44721,6 +49345,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1238195833
 GameObject:
@@ -44816,6 +49465,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1244637533 stripped
 GameObject:
@@ -44944,6 +49618,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1252537262
 MeshRenderer:
@@ -45088,6 +49787,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1261713572
 GameObject:
@@ -45183,6 +49907,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1293483828
 GameObject:
@@ -45278,6 +50027,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1305277399
 GameObject:
@@ -45373,6 +50147,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1307308883
 GameObject:
@@ -45468,6 +50267,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1324031521
 GameObject:
@@ -45563,6 +50387,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1324032315
 GameObject:
@@ -45739,6 +50588,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1329351241
 GameObject:
@@ -45834,6 +50708,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 1759126694}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1332821979
 GameObject:
@@ -45929,6 +50828,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1334024625
 GameObject:
@@ -46024,6 +50948,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1334478310
 GameObject:
@@ -46070,6 +51019,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1334478313
 MeshRenderer:
@@ -46214,6 +51188,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1350339983
 GameObject:
@@ -46260,6 +51259,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1350339986
 MeshRenderer:
@@ -46404,6 +51428,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1367821962
 GameObject:
@@ -46450,6 +51499,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1367821965
 MeshRenderer:
@@ -46545,6 +51619,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1375584719
 MeshRenderer:
@@ -46640,6 +51739,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1376760670
 MeshRenderer:
@@ -46735,6 +51859,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1377823357
 MeshRenderer:
@@ -46879,6 +52028,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1407507534
 GameObject:
@@ -46974,6 +52148,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1414931322
 GameObject:
@@ -47020,6 +52219,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1414931325
 MeshRenderer:
@@ -47134,6 +52358,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1428208516
 MeshRenderer:
@@ -47229,6 +52478,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1431855254
 MeshRenderer:
@@ -47324,6 +52598,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1435226099
 MeshRenderer:
@@ -47468,6 +52767,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1438102971
 GameObject:
@@ -47514,6 +52838,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1438102974
 MeshRenderer:
@@ -47658,6 +53007,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1443073233
 GameObject:
@@ -47753,6 +53127,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1443948239
 GameObject:
@@ -47848,6 +53247,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1446718505
 GameObject:
@@ -47943,6 +53367,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1449395876
 GameObject:
@@ -48038,6 +53487,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1490413763
 GameObject:
@@ -48133,6 +53607,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1498340378
 GameObject:
@@ -48179,6 +53678,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1498340381
 MeshRenderer:
@@ -48274,6 +53798,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1508442317
 MeshRenderer:
@@ -48418,6 +53967,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1515287351
 GameObject:
@@ -48513,6 +54087,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1518604705
 GameObject:
@@ -48559,6 +54158,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1518604708
 MeshRenderer:
@@ -48703,6 +54327,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1531433832
 GameObject:
@@ -48749,6 +54398,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1531433835
 MeshRenderer:
@@ -48844,6 +54518,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1535672915
 MeshRenderer:
@@ -49041,6 +54740,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1549497991
 MeshRenderer:
@@ -49181,6 +54905,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1570933946
 MeshRenderer:
@@ -49468,6 +55217,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1578163027
 MeshRenderer:
@@ -49612,6 +55386,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1591095462
 GameObject:
@@ -49707,6 +55506,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1597025073
 GameObject:
@@ -49753,6 +55577,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1597025076
 MeshRenderer:
@@ -49897,6 +55746,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1621722516
 GameObject:
@@ -49992,6 +55866,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1631768850
 GameObject:
@@ -50087,6 +55986,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1633642020
 GameObject:
@@ -50182,6 +56106,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1636567680
 GameObject:
@@ -50228,6 +56177,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1636567683
 MeshRenderer:
@@ -50372,6 +56346,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1640851344
 GameObject:
@@ -50467,6 +56466,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1653086655
 GameObject:
@@ -50513,6 +56537,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1653086658
 MeshRenderer:
@@ -50608,6 +56657,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1656264954
 MeshRenderer:
@@ -50752,6 +56826,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1676100422
 GameObject:
@@ -50909,6 +57008,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1677838694
 MeshRenderer:
@@ -51004,6 +57128,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1681971121
 MeshRenderer:
@@ -51099,6 +57248,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1684028869
 MeshRenderer:
@@ -51275,6 +57449,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1709009168
 MeshRenderer:
@@ -51370,6 +57569,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1718636918
 MeshRenderer:
@@ -51586,6 +57810,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1726111129
 MeshRenderer:
@@ -51726,6 +57975,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1736358688
 MeshRenderer:
@@ -51870,6 +58144,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1751662131
 GameObject:
@@ -51965,6 +58264,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1754564326
 GameObject:
@@ -52060,6 +58384,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1756037334
 GameObject:
@@ -52106,6 +58455,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1756037337
 MeshRenderer:
@@ -52201,6 +58575,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1757383253
 MeshRenderer:
@@ -52296,6 +58695,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1759126696
 MeshRenderer:
@@ -52436,6 +58860,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1771229215
 MeshRenderer:
@@ -52531,6 +58980,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1777942790
 MeshRenderer:
@@ -52626,6 +59100,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1795235482
 MeshRenderer:
@@ -52721,6 +59220,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1803835843
 MeshRenderer:
@@ -52865,6 +59389,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1811796758
 GameObject:
@@ -52911,6 +59460,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1811796761
 MeshRenderer:
@@ -53055,6 +59629,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1829133020
 GameObject:
@@ -53101,6 +59700,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1829133023
 MeshRenderer:
@@ -53245,6 +59869,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1838077006
 GameObject:
@@ -53291,6 +59940,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1838077009
 MeshRenderer:
@@ -53435,6 +60109,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1847801674
 GameObject:
@@ -53530,6 +60229,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1848785577
 GameObject:
@@ -53576,6 +60300,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1848785580
 MeshRenderer:
@@ -53752,6 +60501,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1854072974
 MeshRenderer:
@@ -53847,6 +60621,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1855650599
 MeshRenderer:
@@ -53942,6 +60741,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1861350931
 MeshRenderer:
@@ -54086,6 +60910,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1883197066
 GameObject:
@@ -54132,6 +60981,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1883197069
 MeshRenderer:
@@ -54227,6 +61101,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1883850726
 MeshRenderer:
@@ -54286,6 +61185,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1887554925}
+  - component: {fileID: 1887554926}
   m_Layer: 0
   m_Name: Left
   m_TagString: Untagged
@@ -54467,6 +61367,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1887554926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1887554924}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d43ce5b5dd5012d4e9b818b9415a8d37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentComponent: {fileID: 1887554925}
 --- !u!1 &1893036177
 GameObject:
   m_ObjectHideFlags: 0
@@ -54561,6 +61474,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1895537158
 GameObject:
@@ -54607,6 +61545,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1895537161
 MeshRenderer:
@@ -54976,6 +61939,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1911400683
 GameObject:
@@ -55022,6 +62010,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1911400686
 MeshRenderer:
@@ -55117,6 +62130,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1918730457
 MeshRenderer:
@@ -55261,6 +62299,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1922970887
 GameObject:
@@ -55356,6 +62419,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1924364876
 GameObject:
@@ -55402,6 +62490,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1924364879
 MeshRenderer:
@@ -55497,6 +62610,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1925944010
 MeshRenderer:
@@ -55641,6 +62779,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1958818371
 GameObject:
@@ -55736,6 +62899,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1961505813
 GameObject:
@@ -55831,6 +63019,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1961857838
 GameObject:
@@ -55926,6 +63139,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1966547507
 GameObject:
@@ -55972,6 +63210,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1966547510
 MeshRenderer:
@@ -56067,6 +63330,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1970937179
 MeshRenderer:
@@ -56211,6 +63499,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 1979171791}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1973856923
 GameObject:
@@ -56257,6 +63570,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1973856926
 MeshRenderer:
@@ -56352,6 +63690,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1979171793
 MeshRenderer:
@@ -56496,6 +63859,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1989481925
 GameObject:
@@ -56591,6 +63979,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &1991011568
 GameObject:
@@ -56637,6 +64050,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1991011571
 MeshRenderer:
@@ -56743,6 +64181,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &1996664121
 MeshRenderer:
@@ -57059,6 +64522,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2007380020
 MeshRenderer:
@@ -57154,6 +64642,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2009846846
 MeshRenderer:
@@ -57249,6 +64762,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2021551460
 MeshRenderer:
@@ -57495,6 +65033,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 1979171791}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2026984043
 GameObject:
@@ -57541,6 +65104,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2026984046
 MeshRenderer:
@@ -57636,6 +65224,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2027627228
 MeshRenderer:
@@ -57731,6 +65344,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2028643171
 MeshRenderer:
@@ -57875,6 +65513,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2037988906
 GameObject:
@@ -57970,6 +65633,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2040121974
 GameObject:
@@ -58065,6 +65753,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2056328405
 GameObject:
@@ -58160,6 +65873,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2059868810
 GameObject:
@@ -58255,6 +65993,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2063009804
 GameObject:
@@ -58350,6 +66113,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2067573751
 GameObject:
@@ -58396,6 +66184,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2067573754
 MeshRenderer:
@@ -58491,6 +66304,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2069858176
 MeshRenderer:
@@ -58635,6 +66473,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2077002718
 GameObject:
@@ -58811,6 +66674,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2105558666
 GameObject:
@@ -58906,6 +66794,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2112372224
 GameObject:
@@ -59082,6 +66995,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2124630168
 GameObject:
@@ -59128,6 +67066,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2124630171
 MeshRenderer:
@@ -59353,6 +67316,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2131295216
 GameObject:
@@ -59448,6 +67436,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!1 &2139824316
 GameObject:
@@ -59494,6 +67507,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136c086ced23988429b20534f2fc277b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  checkZpos: 0
+  lastPillar: {fileID: 0}
+  randomYDifferences:
+  - 3
+  - 6
+  - 8
+  ydiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 10
+    - 15
+    - 12
+    - 8
+    - 4
+  zdiffrence:
+    uniqRandom: 1
+    randomFloats:
+    - 9
+    - 12
+    - 7
+    - 6
+    - 5
+    - 8
+    - 10
+  localZ: 0
   camTrans: {fileID: 1897859535}
 --- !u!23 &2139824319
 MeshRenderer:

@@ -10,3 +10,33 @@ public static class Exts
         return items[rIndex];
     }
 }
+[System.Serializable]
+public struct RandomFloatArray
+{
+    [SerializeField] bool uniqRandom;
+    [SerializeField] List<float> randomFloats;
+    List<float> tempList;
+
+   
+    public float RandomFloat
+    {
+        get
+        {
+            if (this.tempList == null)
+                this.tempList = new List<float>(this.randomFloats);
+            else if(this.tempList.Count==0)
+                this.tempList = new List<float>(this.randomFloats);
+            if(this.uniqRandom)
+            {
+                int indx = Random.Range(0,this.tempList.Count);
+                float rnum = this.tempList[indx];
+                this.tempList.RemoveAt(indx);
+                return rnum;
+            }
+            else
+            {
+                return this.randomFloats[Random.Range(0, this.randomFloats.Count)];
+            }
+        }
+    }
+}
