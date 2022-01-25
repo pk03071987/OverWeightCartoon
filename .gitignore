@@ -3,3 +3,5 @@
 /Over_weight/*.sln
 /Over_weight/*.vsconfig
 /Over_weight/Temp
+/Over_weight/.vs
+/Over_weight/*.csproj
