@@ -13,20 +13,23 @@ public class CreateFoodItems : MonoBehaviour
 
     [SerializeField] RangeValue pillarXScale;
     [SerializeField] float[] pillarZScale;
-    [SerializeField]float miny=.5f;
-    [SerializeField]float maxY=1f;
+    [SerializeField] float miny = .5f;
+    [SerializeField] float maxY = 1f;
 
-    [SerializeField]float minZ=2f;
-    [SerializeField]float maxZ=3f;
-    [SerializeField] float foodelayMin=.5f;
-    [SerializeField] float foodelayMax=1f;
+    [SerializeField] float minZ = 2f;
+    [SerializeField] float maxZ = 3f;
+    [SerializeField] float foodelayMin = .5f;
+    [SerializeField] float foodelayMax = 1f;
     [SerializeField] bool createFoods = false;
-    [SerializeField]float minDist = 0;
-    float lastZValue=0f;
+    [SerializeField] float minDist = 0;
+    float lastZValue = 0f;
+
+
+    //[SerializeField] GameObject[] pillarPrefabs;
 
     private void Start()
     {
-        randomFooodIndexes = new RandomInts(0,foodsPrefab.Length);
+        randomFooodIndexes = new RandomInts(0, foodsPrefab.Length);
         StartCoroutine(FoodCreaterLoop());
     }
     IEnumerator FoodCreaterLoop()
@@ -34,7 +37,7 @@ public class CreateFoodItems : MonoBehaviour
         yield return new WaitForSeconds(startFood_creationDelay.value);
         while (true)
         {
-            if(createFoods)
+            if (createFoods)
             {
                 CreateFoodPillar();
                 yield return new WaitForSeconds(Random.Range(foodelayMin, foodelayMax));
@@ -42,21 +45,24 @@ public class CreateFoodItems : MonoBehaviour
             yield return null;
         }
     }
-   GameObject CreateFoodPillar()
+    GameObject CreateFoodPillar()
     {
         GameObject g = Instantiate(pillarPrefab);
+        //int number = Random.Range(0, pillarPrefabs.Length - 1);
+        //GameObject g = Instantiate(pillarPrefabs[number]);
         Vector3 playerPos = playerTrans.position;
-        Vector3 newFoodPillarPos = playerPos + Vector3.forward * Random.Range(minZ,maxZ);
-        newFoodPillarPos.y -= Random.Range(miny,maxY);
-        if(lastZValue==0)
+        Vector3 newFoodPillarPos = playerPos + Vector3.forward * Random.Range(minZ, maxZ);
+        newFoodPillarPos.y -= Random.Range(miny, maxY);
+      //  newFoodPillarPos.x = pillarPrefabs[number].transform.position.x;
+        if (lastZValue == 0)
         {
             lastZValue = newFoodPillarPos.z;
         }
         else
         {
-            if(Mathf.Abs(newFoodPillarPos.z-lastZValue)<minDist)
+            if (Mathf.Abs(newFoodPillarPos.z - lastZValue) < minDist)
             {
-                newFoodPillarPos.z =lastZValue+minDist;
+                newFoodPillarPos.z = lastZValue + minDist;
             }
             lastZValue = newFoodPillarPos.z;
         }
@@ -74,10 +80,8 @@ public class CreateFoodItems : MonoBehaviour
         LScale.z = pillarZScale.RandomItem();
         pillarObj.localScale = LScale;
         GameObject g = NewFood();
-        Vector3 pillarCenter= pillarObj.position + Vector3.up * .5f;
-        
-       
-        if(LScale.z>=8f)
+        Vector3 pillarCenter = pillarObj.position + Vector3.up * .5f;
+        if (LScale.z >= 8f)
         {
             Vector3 p1 = pillarObj.InverseTransformPoint(pillarCenter);
             Vector3 p2 = pillarObj.InverseTransformPoint(pillarCenter);
@@ -92,7 +96,7 @@ public class CreateFoodItems : MonoBehaviour
         {
             g.transform.position = pillarCenter;
         }
-        
+
     }
     GameObject NewFood()
     {
@@ -114,7 +118,7 @@ public struct RandomInts
 {
     int min, max;
     List<int> numbers;
-    public RandomInts(int min_,int max_)
+    public RandomInts(int min_, int max_)
     {
         this.min = min_;
         this.max = max_;
@@ -135,9 +139,9 @@ public struct RandomInts
     }
     void InitNums()
     {
-      
+
         for (int i = this.min; i < this.max; i++)
             this.numbers.Add(i);
-        
+
     }
 }
